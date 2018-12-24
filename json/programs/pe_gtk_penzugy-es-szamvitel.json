@@ -322,9 +322,9 @@
                 {
                     "code": "VEGTSCB244G",
                     "name": "A problémamegoldás gyakorlata II.",
-                    "credits": 3,
+                    "credits": 0,
                     "prerequisites": [
-                        "VEGTSCB222K"
+                        "VEGTMIB222G"
                     ]
                 },
                 {
